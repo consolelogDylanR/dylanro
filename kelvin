@@ -1,0 +1,12 @@
+// the forecast today is 293 kelvin
+const kelvin = 32;
+let celsius = kelvin - 273;
+// Celsius goes up in same increments to Kelvin but they are 273 degrees apart
+let farenheit = celsius * (9/5) + 32
+//converting celsius to farenheit
+farenheit = Math.floor(farenheit)
+// rounding to nearest integer
+console.log(`The temperature is ${farenheit} degrees farenheit.`)
+let newton = celsius * (33/100)
+newton = Math.floor(newton)
+console.log(newton)
