@@ -1,2 +1,2 @@
 # dylanro
-leanring conditionals
+leanring JS
