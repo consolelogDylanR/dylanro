@@ -1,2 +1,2 @@
 # dylanro
-leanring JS
+learning JS
